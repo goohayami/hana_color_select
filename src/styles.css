@@ -63,6 +63,7 @@ body {
 }
 
 .background-container {
+  margin: 0;
   display: flex;
   text-align: center;
   justify-content: center;
@@ -70,12 +71,14 @@ body {
 }
 
 .omoji-container {
+  margin: 0;
   display: flex;
   text-align: center;
   justify-content: center;
   align-items: center;
 }
 .komoji-container {
+  margin: 0;
   display: flex;
   text-align: center;
   justify-content: center;
@@ -83,8 +86,11 @@ body {
 }
 
 button {
-  width: 150px;
-  height: 50px;
-  font-size: 2rem;
+  width: 120px;
+  height: 30px;
+  font-size: 1rem;
   margin-left: 2px;
+}
+h2{
+  margin: 0;
 }
