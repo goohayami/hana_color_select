@@ -1,0 +1,57 @@
+/* ここからnav */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "M PLUS 1p", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
+  background-color: rgb(239, 240, 234);
+  color: rgb(26, 76, 96);
+}
+
+p {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 3rem;
+  color: rgb(14, 53, 68);
+}
+.nav {
+  margin: 0;
+  padding: 0;
+  height: 40px;
+  justify-content: center;
+  background-color: rgb(31, 93, 117);
+  margin-bottom: 0.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  color: white;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  list-style: none;
+  gap: 100px;
+}
+section {
+  margin: 0;
+  /* margin-bottom: 1rem; */
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+/* ここまでnav */
+
+.lyrics {
+  margin-left: 4rem;
+}
+
+h2 {
+  margin: 0;
+  margin-bottom: 0.2rem;
+  font-family: "Noto Serif JP", serif;
+}
